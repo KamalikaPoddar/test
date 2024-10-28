@@ -1,4 +1,4 @@
-import { OnboardingSignup } from '../components/OnboardingSignup'
+import { OnboardingSignup } from '../OnboardingSignup'
 
 export default function SignupPage() {
   return <OnboardingSignup />
